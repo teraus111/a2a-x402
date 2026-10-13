@@ -342,3 +342,6 @@ Apache-2.0 - See [LICENSE](LICENSE) for details
 ## Contributing
 
 Contributions welcome! Please feel free to submit a Pull Request.
+
+## Contact
+Telegram: @teraus111
